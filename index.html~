@@ -61,7 +61,7 @@
 <div>sukso96100.github.io</div>
 </section>
 <section>
-    <section>
+    <section data-background="slideimg/chrome.png">
         <h2>
             <br>
             </h2>
@@ -337,7 +337,7 @@ chrome.app.runtime.onLaunched.addListener(function() {
     </ul>
 </div>
 </section>
-<section>
+<section data-background="slideimg/chrome.png">
     <h2>learn more...</h2>
     <div>
         <br>
@@ -371,7 +371,7 @@ chrome.app.runtime.onLaunched.addListener(function() {
 </section>
 </section>
 <section>
-    <section>
+    <section data-background="slideimg/yeoman.png">
         <h2 style="font-style: normal; font-variant: normal;">
             <br>
         </h1>
@@ -500,7 +500,7 @@ chrome.app.runtime.onLaunched.addListener(function() {
 <pre><code>grunt</code></pre>
 </div>
 </section>
-<section>
+<section data-background="slideimg/yeoman.png">
     <h2>learn more...</h2>
     <div>
         <br>
@@ -521,8 +521,8 @@ chrome.app.runtime.onLaunched.addListener(function() {
 </section>
 <section>
     <h2>get this slide</h2>
-<br>
-http://sukso96100.github.io/chrome-packaged-apps-and-yeoman
+<br><a href="http://sukso96100.github.io/chrome-packaged-apps-and-yeoman">
+http://sukso96100.github.io/chrome-packaged-apps-and-yeoman</a>
 </section>
 <section>
     <h1>
